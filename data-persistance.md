@@ -14,27 +14,28 @@ NOTE: There are a lot of "tools" and libraries but there are just 3 purposes for
 
 ### 1. Settings and Configuration
 
-##### User Defaults
-##### iCloud Key-Value Store
-##### Property List (plist)
+#### User Defaults
+#### iCloud Key-Value Store
+#### Property List (plist)
 
 
 ### 2. Objects and Object Graphs
 
 Local storage:
-##### SQLite
-##### Core Data
-##### Realm Database
+#### SQLite
+#### Core Data
+#### Realm Database
 <br>
+
 Cloud storage:
-##### CloudKit
-##### Firebase
-##### Realm Platform
+#### CloudKit
+#### Firebase
+#### Realm Platform
 
 ### 3. Documents and Files
-##### UIDocument
+#### UIDocument
 
-##### iOS Files App
+#### iOS Files App
 
 ---------------------------
 
