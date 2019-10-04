@@ -33,6 +33,16 @@ brew install git
 ```bash
 ssh-keygen -t rsa -b 4096 (-C youremail@lalala.com)
 ```
+or even better
+```bash
+ssh-keygen -t ecdsa (-C youremail@lalala.com)
+```
+or the best method
+```bash
+ssh-keygen -t ed25519 (-C youremail@lalala.com)
+```
+
+PLEASE do not use DSA!!!
 <br>
 
 
@@ -92,6 +102,13 @@ brew cask install sapmachine-jdk
 brew cask install eclipse-java
 ```
 <br>
+
+* [KeepassXC](https://keepassxc.org) - Sofware for keeping passwords safe
+```bash
+brew cask install keepassxc
+```
+<br>
+
 
 
 

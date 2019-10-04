@@ -14,9 +14,13 @@ NOTE: There are a lot of "tools" and libraries but there are just 3 purposes for
 
 ### 1. Settings and Configuration
 
+Local storage:
 #### User Defaults
-#### iCloud Key-Value Store
 #### Property List (plist)
+(recomended for small data - not realy smal like other)
+
+Remote (Cloud) Storage:
+#### iCloud Key-Value Store
 
 
 ### 2. Objects and Object Graphs
