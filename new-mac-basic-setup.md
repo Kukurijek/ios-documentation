@@ -8,6 +8,13 @@ Setup for the new mac - must have
 ```
 <br>
 
+* [RVM](https://www.ruby-lang.org/de/documentation/installation/#rvm) - Ruby version manager
+```bash
+curl -L https://get.rvm.io | bash -s stable
+```
+<br>
+
+
 * [Oh My ZSH](https://ohmyz.sh) - Framework for Z shell
 ```bash
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
@@ -109,8 +116,11 @@ brew cask install keepassxc
 ```
 <br>
 
-
-
+* [Fastlane](https://fastlane.tools/) - Mobile apps automation tool
+```bash
+sudo gem install fastlane
+```
+<br>
 
 * [Xcode](https://developer.apple.com/xcode/) - IDE for Swift
 
